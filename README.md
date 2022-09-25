@@ -1,6 +1,5 @@
 **Student** at the <a href="https://um.edu.mt" target="_blank">University of Malta</a> & <a href="https://lancaster.ac.uk" target="_blank">Lancaster University</a>
 <br>
-**Machine Learning Engineer** at the <a href="https://mccaa.org.mt" target="_blank">Malta Competition and Consumer Affairs Authority</a>
 
 <a href="https://matthewkenely.github.io" target="_blank">**matthewkenely.github.io**</a>
 
