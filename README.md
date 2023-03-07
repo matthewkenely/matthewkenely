@@ -2,3 +2,8 @@
 <br>
 
 <a href="https://mkenely.com" target="_blank">**mkenely.com**</a>
+
+--
+
+<a href="https://mkenely.com/cv.pdf" target="_blank">**CV**</a>
+
