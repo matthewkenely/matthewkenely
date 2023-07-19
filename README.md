@@ -15,6 +15,6 @@ I have a passion for <a href="https://www.instagram.com/m_kenely/" target="_blan
 
 <div align="center">
   
-<a href="https://mkenely.com" target="_blank">**mkenely.com**</a> | <a href="https://mkenely.com/cv.pdf" target="_blank">**CV**</a>
+<a href="https://mkenely.com" target="_blank">**mkenely.com**</a>
 
 </div>
