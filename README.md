@@ -1,6 +1,6 @@
 <div align="center">
   
-**Student** & **Research Assistant** at the <a href="https://um.edu.mt" target="_blank">University of Malta</a>
+**Student** & **Research Assistant** at the <a href="https://um.edu.mt" target="_blank">**University of Malta**</a>
 
 </div>
 <hr>
