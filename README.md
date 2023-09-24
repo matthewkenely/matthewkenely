@@ -2,7 +2,7 @@
 
 <h1><b>Matthew Kenely</b></h1>
 
-💼 **Student** & **Research Assistant**  at the <a href="https://um.edu.mt" target="_blank">**University of Malta**</a>
+💼 **Student** at the <a href="https://um.edu.mt" target="_blank">**University of Malta**</a>
 
 </div>
 
