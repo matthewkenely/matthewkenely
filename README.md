@@ -9,7 +9,7 @@
 <br>
 
 <div align="left" style="font-family: monospace">
-Hey! I'm Matthew Kenely, a student pursuing a Bachelor of Science in Information Technology (Artificial Intelligence) at the University of Malta with an interest in Computer Vision and Media Processing.
+Hey! I'm Matthew Kenely, a student and published <a href="https://mkenely.com/publications" target="_blank">academic author</a> pursuing a Bachelor of Science in Information Technology (Artificial Intelligence) at the University of Malta with an interest in Computer Vision and Media Processing.
 <br><br>
 
 I took part in an <a href="https://erasmus-plus.ec.europa.eu/" target="_blank">Erasmus+</a> placement at <a href="https://www.lancaster.ac.uk/" target="_blank">Lancaster University</a> (Artificial Intelligence, Media Coding and Processing).
