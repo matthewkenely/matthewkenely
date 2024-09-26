@@ -9,7 +9,7 @@
 <br>
 
 <div align="left" style="font-family: monospace">
-A Software Engineer at <a href="https://www.seytravel.com/beyondmuseums" target="_blank">Beyond Museums</a> and a published <a href="https://mkenely.com/publications" target="_blank">academic author</a> with research interests in Computer Vision and Image Processing.
+A Software Engineer at <a href="https://www.seytravel.com/colourmytravel" target="_blank">Colour my Travel</a> and a published <a href="https://mkenely.com/publications" target="_blank">academic author</a> with research interests in Computer Vision and Image Processing.
 <br><br>
 I've completed a B.Sc. IT (Hons) AI at the University of Malta and graduated with a First Class Honours, and am currently reading for an M.Sc. in Artificial Intelligence.
 <br><br>
