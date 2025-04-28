@@ -2,16 +2,12 @@
 
 <h1><b>Matthew Kenely</b></h1>
 
-💼 **Student** at the <a href="https://um.edu.mt" target="_blank">**University of Malta**</a>
-
-</div>
-
 <br>
 
 <div align="left" style="font-family: monospace">
-A Software Engineer at <a href="https://www.seytravel.com/colourmytravel" target="_blank">Colour my Travel</a> and a published <a href="https://mkenely.com/publications" target="_blank">academic author</a> with research interests in Computer Vision and Image Processing.
+A Software Engineer at <a href="https://www.seytravel.com/colourmytravel" target="_blank">Colour my Travel</a> and a published <a href="https://mkenely.com/publications" target="_blank">academic author</a> with research interests in computer vision and image processing.
 <br><br>
-I've completed a B.Sc. IT (Hons) AI at the University of Malta and graduated with a First Class Honours, and am currently reading for an M.Sc. in Artificial Intelligence.
+I've obtained a B.Sc. IT (Hons) in Artificial Intelligence at the University of Malta, graduating with First Class Honours, and am currently pursuing an M.Sc. in Artificial Intelligence with a focus on neuroimaging, applying Siamese networks to identify monozygotic twins from brain MRI scans through neuroanatomical differences extracted through embeddings.
 <br><br>
 I am an advocate for <a href="https://en.wikipedia.org/wiki/Open_knowledge" target="_blank">open knowledge</a> and <a href="https://en.wikipedia.org/wiki/Free_software#Definition_and_the_Four_Essential_Freedoms_of_Free_Software" target="_blank">free (libre)</a> software. The preprints of my publications can be downloaded for free <a href="https://mkenely.com/publications" target="_blank">here</a>.
 
