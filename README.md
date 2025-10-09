@@ -5,7 +5,7 @@
 <br>
 
 <div align="left" style="font-family: monospace">
-A Software Engineer at <a href="https://www.seytravel.com/colourmytravel" target="_blank">Colour my Travel</a> and a published <a href="https://mkenely.com/publications" target="_blank">academic author</a> with research interests in computer vision and image processing.
+A Software Engineer at <a href="https://ai.seytravel.com" target="_blank">SeyAI</a> and a published <a href="https://mkenely.com/publications" target="_blank">academic author</a> with research interests in computer vision and image processing.
 <br><br>
 I've obtained a B.Sc. IT (Hons) in Artificial Intelligence at the University of Malta, graduating with First Class Honours, and am currently pursuing an M.Sc. in Artificial Intelligence with a focus on neuroimaging, applying Siamese networks to identify monozygotic twins from brain MRI scans through neuroanatomical differences extracted through embeddings.
 <br><br>
